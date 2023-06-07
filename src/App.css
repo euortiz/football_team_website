@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ml-15 {
+  margin-left: 3.75rem; /* Adjust the value as per your preference */
+}
+
+.mr-15 {
+  margin-right: 3.75rem; /* Adjust the value as per your preference */
+}
+
+.arrow {
+  margin: 5px;
+  font-size: 10px;
+}
+
+.image-size {
+  width: 10rem;
+  height: 11rem;
+}
+
+.myBackground {
+  background-image: url("../assets/background.jpg");
+}
